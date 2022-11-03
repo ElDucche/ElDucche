@@ -12,11 +12,11 @@
 * ⚛️ Deep into React with Next.js and Gatsby.js
 * 📖 Deploy my portfolio and article from what I've learned
 * Following React formation with intership
-* 🚨 Currently looking for intership as React Developer 🚨
+* 🚨 Currently looking for internship as React Developer 🚨
 
 ### 2023
 
-* ⚛️ Being confirmed React Dev
+* ⚛️ Being a confirmed React Dev
 * 🌿 Learn and get the basics of the M.E.R.N stack
 * 👨‍💻 Learn Node.js / MongoDB / SQL / Express.js
 * 📄 Learn Smart contract Developement with Solidity and HardHat. 👷
