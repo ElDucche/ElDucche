@@ -4,26 +4,16 @@
 
 ## This is my Roadmap : 🛣️
 
-### 2022
-
-* 👨‍💻 Javascript and Typescript basics and advanced 
-* 🍃 TailwindCSS confirmed
-* ⚛️ React framework basics
-* ⚛️ Deep into React with Next.js and Gatsby.js
-* 📖 Deploy my portfolio and article from what I've learned
-* Following React formation with intership
-* 🚨 Currently looking for internship as React Developer 🚨
-
 ### 2023
 
-* ⚛️ Being a confirmed React Dev
-* 🌿 Learn and get the basics of the M.E.R.N stack
-* 👨‍💻 Learn Node.js / MongoDB / SQL / Express.js
+* ⚛️  Being a confirmed React Dev
+* 🌿 Learn and confirm the basics of the T.R.O.N (Typescript, React, Postgrees, NextJS) stack
+* 👨‍💻 Learn Docker / MongoDB / Postgrees
 * 📄 Learn Smart contract Developement with Solidity and HardHat. 👷
 
 ### 2024
 
-So much things to do...
+In progress...
 
 ## Skills :
 
