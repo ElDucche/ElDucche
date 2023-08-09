@@ -8,7 +8,7 @@
 
 * ⚛️  Being a confirmed React Dev
 * 🌿 Learn and confirm the basics of the T.R.O.N (Typescript, React, Postgrees, NextJS) stack
-* 👨‍💻 Learn Docker / MongoDB / Postgrees
+* 👨‍💻 Learn Docker / MongoDB / Postgre
 * 📄 Learn Smart contract Developement with Solidity and HardHat. 👷
 
 ### 2024
