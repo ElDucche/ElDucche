@@ -1,18 +1,6 @@
 # Hi I'm Guillaume ! ✋
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Poppins&size=24&pause=1000&color=059669&center=true&vCenter=true&width=435&lines=Front-end+Developer;Learning+React+with+Next+%2F+Gatsby;TailwindCSS+user;Future+full-stack+developer)](https://git.io/typing-svg)
-
-## This is my Roadmap : 🛣️
-
-### 2023
-
-* ⚛️  Being a confirmed React Dev
-* 👨‍💻 Learn Docker / MongoDB / Postgre
-* 📄 Learn Smart contract Developement with Solidity and HardHat. 👷
-
-### 2024
-
-In progress...
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Poppins&size=24&pause=1000&color=059669&center=true&vCenter=true&width=435&lines=Front-end+Engineer;React+/+Node+/+Vite+/+TailwindCSS;Full-stack+developer)](https://git.io/typing-svg)
 
 ## Skills :
 
